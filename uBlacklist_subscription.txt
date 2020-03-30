@@ -4,4 +4,5 @@
 *://*/list.php?s=*
 *://*/?s=*
 *://*/so/*
-*://www.uucan.cn/*
+*://uucan.cn/*
+*://hotbak.net/*
